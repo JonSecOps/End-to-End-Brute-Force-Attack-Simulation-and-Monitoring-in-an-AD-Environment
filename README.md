@@ -14,4 +14,4 @@ This project involves simulating a Brute Force Password Attack in a secure envir
 3.	**SIEM Monitoring**: Using Splunk to track and visualize security events. Understanding the importance of telemetry in attack detection.
 4.	**Security Awareness**: Recognizing the signs of brute force attacks in a real-world scenario. Applying proactive measures to safeguard enterprise systems.
 
-
+https://github.com/JonSecOps/End-to-End-Brute-Force-Attack-Simulation-and-Monitoring-in-an-AD-Environment/blob/main/End-to-End%20Brute-Force%20Attack%20Simulation%20and%20Monitoring%20in%20an%20AD%20Environment.pdf
